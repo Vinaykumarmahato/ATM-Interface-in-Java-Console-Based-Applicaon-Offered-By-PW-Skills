@@ -1,4 +1,6 @@
 # 💳 ATM Interface in Java Console Based Applicaon Offered By PW Skills 🏧
+![My Image](image.png)
+
 Welcome to the 🚀 Advanced 💳 ATM Console Application! This text-based ATM system, implemented in Java, allows users to perform various 💰 banking operations, including account management, balance inquiries, fund deposits 💸, withdrawals 💳, and transaction history viewing 📊.
 
 ## Features 🌟
